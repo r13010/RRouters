@@ -1,6 +1,6 @@
 # Routere preconfigurate
 ## Prezentare generala
-![alt text](https://media.discordapp.net/attachments/1191478395175968798/1198399684390174730/page_prezentaregenerala.png?ex=65bec3ad&is=65ac4ead&hm=9db4536f413ddf4d24e54546f9444f860eb7c00e5dac194105c028f6b87f4eca&=&format=webp&quality=lossless&width=675&height=96)
+![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198400617882853486/page_prezentaregenerala.png?ex=65bec48c&is=65ac4f8c&hm=f7547dccd1022b7c140dd233dda5004f8bc293d4d2f07cd1cd03c9a14b795d0a&)
 
 ### Contact
 
