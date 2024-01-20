@@ -2,6 +2,9 @@
 ## Prezentare generala
 ![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198400617882853486/page_prezentaregenerala.png?ex=65bec48c&is=65ac4f8c&hm=f7547dccd1022b7c140dd233dda5004f8bc293d4d2f07cd1cd03c9a14b795d0a&)
 
+Routerele preconfigurate sunt routere care suporta protocolul dot1x si sunt pregatite complet inainte de utilizare. Acestea pot fi folosite in zona Regie si Leu si nu au nevoie de un switch auxiliar, oferind acces usor la internet, la un pret convenabil.
+
+
 #### Contact
 * Numar WhatsApp: `+4076 410 3353`
 * Link WhatsApp: https://wa.me/qr/XUCNRXAQJ4UFH1 
