@@ -33,8 +33,8 @@ Routerele au nevoie doar de a fi conectate la portul de internet din camera, res
 * 1 cablu de retea.
 
 #### Vitezele de internet testate:
-![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413592949698560/image.png?ex=65bed0a2&is=65ac5ba2&hm=734a4a8d268336ccb09368fc84421fa568f042aa9c3b073a5100c286f333e418&)
-![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413708636983306/image.png?ex=65bed0bd&is=65ac5bbd&hm=24822bb6fb707e6957f26362d726e7381057ae87e26b45c9eeb1a6f39751ca68&)
+![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413592949698560/image.png?ex=65bed0a2&is=65ac5ba2&hm=734a4a8d268336ccb09368fc84421fa568f042aa9c3b073a5100c286f333e418& | width=100)
+![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413708636983306/image.png?ex=65bed0bd&is=65ac5bbd&hm=24822bb6fb707e6957f26362d726e7381057ae87e26b45c9eeb1a6f39751ca68& | width=100)
 
 ## Depanare
 
