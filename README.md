@@ -20,14 +20,14 @@ Routerele au nevoie doar de a fi conectate la portul de internet din camera, res
 ## Specificatii tehnice
 ![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198409688274968708/page_specificatiitehnice.png?ex=65beccff&is=65ac57ff&hm=9887f6d6331649befbf76ccee5dc45ba058ce82212715df9aa1caa8cba407da3&)
 
-### Routerele au urmatoarele specificatii:
+#### Routerele au urmatoarele specificatii:
 * Viteza Gigabit pe Lan (10/100/1000) si Wifi (300 + 867 Mbps).
 * 2 porturi Lan, care pot fi folosite pentru conectarea la PC sau Laptop.
 * 4 antene Wifi, mai mult decat suficiente pentru una sau doua camere.
 * Tehnologia Dual-Band, o retea de 2.4 Ghz si una de 5 Ghz.
 * Vin resoftate cu sistemul de operare [OpenWrt](https://github.com/openwrt/openwrt).
 
-### Pachetul contine:
+#### Pachetul contine:
 * Routerul preconfigurat.
 * Alimentatorul sau.
 * 1 cablu de retea
