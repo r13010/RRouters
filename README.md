@@ -5,11 +5,15 @@
 Routerele preconfigurate sunt routere care suporta protocolul dot1x si sunt pregatite complet inainte de utilizare. Acestea pot fi folosite in zona Regie si Leu si nu au nevoie de un switch auxiliar, oferind acces usor la internet, la un pret convenabil.
 
 #### Contact
-* Numar WhatsApp: `+4076 410 3353`
+* Numar WhatsApp:
+  ```
+  +4076 410 3353
+  ```
 * Link WhatsApp: https://wa.me/qr/XUCNRXAQJ4UFH1 
 * Link la pagina aceasta: https://github.com/r13010/RRouters
 
 ## Instalare simpla
+Routerele au nevoie doar de a fi conectate la portul de internet din camera, respectiv la priza de perete, iar apoi se poate alege 
 
 ## Specificatii tehnice
 
