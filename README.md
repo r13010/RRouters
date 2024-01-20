@@ -35,10 +35,9 @@ Routerele au nevoie doar de a fi conectate la portul de internet din camera, res
 #### Vitezele de internet testate:
 <img src="https://cdn.discordapp.com/attachments/1191478395175968798/1198413592949698560/image.png?ex=65bed0a2&is=65ac5ba2&hm=734a4a8d268336ccb09368fc84421fa568f042aa9c3b073a5100c286f333e418&" width=50% height=50%>
 <img src="https://cdn.discordapp.com/attachments/1191478395175968798/1198413708636983306/image.png?ex=65bed0bd&is=65ac5bbd&hm=24822bb6fb707e6957f26362d726e7381057ae87e26b45c9eeb1a6f39751ca68&" width=50% height=50%>
-![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413592949698560/image.png?ex=65bed0a2&is=65ac5ba2&hm=734a4a8d268336ccb09368fc84421fa568f042aa9c3b073a5100c286f333e418&)
-![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198413708636983306/image.png?ex=65bed0bd&is=65ac5bbd&hm=24822bb6fb707e6957f26362d726e7381057ae87e26b45c9eeb1a6f39751ca68&)
 
 ## Depanare
+![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198415507058085978/page_depanare.png?ex=65bed26a&is=65ac5d6a&hm=e82fba664100dfc78e138ab98c4d15246c06d21e2579e8d30435116e76404fcf&)
 
 ## Altele
 
