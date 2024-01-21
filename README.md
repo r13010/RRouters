@@ -41,6 +41,23 @@ Routerele vin preconfigurate pentru reteaua din Regie si Leu dar la baza sunt ni
 ## Depanare
 ![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198415507058085978/page_depanare.png?ex=65bed26a&is=65ac5d6a&hm=e82fba664100dfc78e138ab98c4d15246c06d21e2579e8d30435116e76404fcf&)
 
+Routerele se reconecteaza singure la retea in cazul pierderilor de semnal sau deconectare de la retea. Dupa ce acestea pornesc (nu mai palpaie ledul portocalui) ar trebui sa se conecteze la retea in jur de 1-2 minute.
+
+#### La toata lumea a revenit internetul, doar mie nu. Ce fac?
+* Puteti incerca deconectarea cablului de internet si conectarea lui inapoi
+* In cazul in care nu revine internetul, puteti restarta routerul. Se deconecteaza de la priza pentru cateva secunde.
+
+#### Am modificat niste setari si routerul nu se mai conecteaza la retea.
+* Se verifica setarile, in special tabul **Network > cd802.1x** client sa fie activat si sa contina credentialele UPB corecte.
+
+#### Am resetat routerul din greseala sau nu mai stiu ce sa ii fac. Ce fac?
+* [Contacteaza-ne](https://github.com/r13010/RRouters?tab=readme-ov-file#contact).
+
+#### Care este pagina de setari a routerului?
+* Pagina este cea default OpenWrt:
+```
+192.168.1.1
+```
 ## Altele
 
 
