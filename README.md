@@ -58,6 +58,16 @@ Routerele se reconecteaza singure la retea in cazul pierderilor de semnal sau de
 ```
 192.168.1.1
 ```
-## Altele
+
+#### Nu pot accesa pagina de setari a routerului.
+* Fiecare router vine initial blocat. Acesta se poate debloca la cerere. [Contacteaza-ne](https://github.com/r13010/RRouters?tab=readme-ov-file#contact).
+* Odata deblocat, acesta are datele de conectare default (User: **root** Password: **admin**)
+
+#### Cum pot verifica daca am un router deblocat?
+* Se poate verifica accesand pagina de setari a routerului.
+* Se verifica numele paginii. Aceasta contine numele routerului si versiunea.
+* Daca aceasta are la final litera D el este deblocat.
+<img src="https://cdn.discordapp.com/attachments/1191478395175968798/1198426838997930004/image.png?ex=65bedcf8&is=65ac67f8&hm=92b8cea41b29a7679da2eddb8810fbdf2e9e6066f03842210da64910bfa69bdb&" width=50% height=50%>
+  
 
 
