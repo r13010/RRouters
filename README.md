@@ -20,6 +20,8 @@ Routerele au nevoie doar de a fi conectate la portul de internet din camera, res
 ## Specificatii tehnice
 ![alt text](https://cdn.discordapp.com/attachments/1191478395175968798/1198409688274968708/page_specificatiitehnice.png?ex=65beccff&is=65ac57ff&hm=9887f6d6331649befbf76ccee5dc45ba058ce82212715df9aa1caa8cba407da3&)
 
+Routerele vin preconfigurate pentru reteaua din Regie si Leu dar la baza sunt niste routere normale, astfel putand fi folosite si cu protocoale mai des intalnite (ex: PPPoE la Digi).
+
 #### Routerele au urmatoarele specificatii:
 * Viteza Gigabit pe Lan (10/100/1000) si Wifi (300 + 867 Mbps).
 * 2 porturi Lan, care pot fi folosite pentru conectarea la PC sau Laptop.
